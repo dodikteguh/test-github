@@ -2,5 +2,7 @@ Rencana
 - Learn Dart
   * UI/UX
   * API
+  * Firebase
 - Learn Docker
 - Struktur Data
+- Python
