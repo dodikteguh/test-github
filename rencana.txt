@@ -3,3 +3,4 @@ Rencana
   * UI/UX
   * API
 - Learn Docker
+- Struktur Data
