@@ -2,5 +2,6 @@ Rencana
 - Learn Dart
   * UI/UX
   * API
+  * Azure
+  * AWS
 - Learn Docker
-- Struktur Data
