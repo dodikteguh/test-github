@@ -1,0 +1,5 @@
+Rencana
+- Learn Dart
+  * UI/UX
+  * API
+- Learn Docker
