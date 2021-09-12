@@ -1,0 +1,3 @@
+Rencana
+- Learn Dart
+- Learn Docker
