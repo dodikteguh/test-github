@@ -3,6 +3,7 @@ Rencana
   * UI/UX
   * API
   * Firebase
+  * AWS
 - Learn Docker
 - Struktur Data
 - Python
