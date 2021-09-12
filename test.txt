@@ -3,4 +3,4 @@ Test anjay
 - Python
 
 - Create Portofolio with React
-- Colab
+- Vlog
